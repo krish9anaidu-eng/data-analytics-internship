@@ -19,7 +19,12 @@ def load_data():
         / "data/cleaned/cleaned_spend.csv"
     )
 
-    df = pd.read_csv(path)
+    df = pd.read_csv(
+        path,
+        low_memory=False,
+        dtype={"product_or_service_code": str}
+    )
+
     df["action_date"] = pd.to_datetime(df["action_date"])
 
     df["recipient_name"] = (
@@ -34,6 +39,7 @@ def load_data():
     df["month"] = df["action_date"].dt.strftime("%Y-%m")
 
     return df
+
 
 df = load_data()
 
@@ -96,14 +102,36 @@ total_suppliers = filtered.loc[
     "recipient_name"
 ].nunique()
 
-total_transactions = len(filtered)
+total_contracts = filtered[
+    "contract_award_unique_key"
+].nunique()
+
+total_transactions = filtered[
+    "contract_transaction_unique_key"
+].nunique()
 
 # KPI cards
-col1, col2, col3 = st.columns(3)
+col1, col2, col3, col4 = st.columns(4)
 
-col1.metric("Total Net Obligations", f"${total_spend:,.2f}")
-col2.metric("Total Suppliers", f"{total_suppliers:,}")
-col3.metric("Total Transactions", f"{total_transactions:,}")
+col1.metric(
+    "Total Net Obligations",
+    f"${total_spend:,.2f}"
+)
+
+col2.metric(
+    "Total Suppliers",
+    f"{total_suppliers:,}"
+)
+
+col3.metric(
+    "Unique Contract Awards",
+    f"{total_contracts:,}"
+)
+
+col4.metric(
+    "Unique Transactions",
+    f"{total_transactions:,}"
+)
 
 st.divider()
 
@@ -136,7 +164,10 @@ fig2 = px.bar(
     y="recipient_name",
     orientation="h",
     title="Top 10 Suppliers",
-    labels={amount: "Amount ($)", "recipient_name": "Supplier"}
+    labels={
+        amount: "Amount ($)",
+        "recipient_name": "Supplier"
+    }
 )
 
 fig2.update_yaxes(categoryorder="total ascending")
@@ -158,40 +189,73 @@ fig3 = px.bar(
     }
 )
 
+fig3.update_xaxes(type="category")
+
 left, right = st.columns(2)
 
 left.plotly_chart(fig2, use_container_width=True)
+
 right.plotly_chart(fig3, use_container_width=True)
 
 # Pareto analysis
 st.subheader("Supplier Concentration")
 
 if total_spend > 0:
-    pareto = top_suppliers[amount].sum() / total_spend * 100
+    pareto = (
+        top_suppliers[amount].sum()
+        / total_spend * 100
+    )
 
     st.metric(
         "Top 10 Suppliers Share",
         f"{pareto:.2f}%"
     )
 else:
-    st.info("Share unavailable for non-positive net spend.")
+    st.info(
+        "Share unavailable for non-positive net spend."
+    )
 
 # Business insights
 st.subheader("Key Business Insights")
 
-highest_month = monthly.loc[monthly[amount].idxmax()]
+highest_month = monthly.loc[
+    monthly[amount].idxmax()
+]
 
 st.write(
     f"Highest spending month: {highest_month['month']}"
 )
 
+st.write(
+    f"Highest monthly spending: "
+    f"${highest_month[amount]:,.2f}"
+)
+
 if not top_suppliers.empty:
     st.write(
-        f"Top supplier: {top_suppliers.iloc[0]['recipient_name']}"
+        f"Top supplier: "
+        f"{top_suppliers.iloc[0]['recipient_name']}"
     )
+
+    st.write(
+        f"Top supplier spending: "
+        f"${top_suppliers.iloc[0][amount]:,.2f}"
+    )
+
+st.write(
+    f"Total unique contract awards: {total_contracts:,}"
+)
+
+st.write(
+    f"Total unique transactions: {total_transactions:,}"
+)
 
 # Transaction table
 st.subheader("Transaction Details")
+
+st.caption(
+    f"Showing up to 1,000 of {len(filtered):,} records"
+)
 
 st.dataframe(filtered.head(1000))
 
@@ -204,4 +268,5 @@ st.download_button(
 )
 
 st.divider()
+
 st.caption("Project 1 | Data Analytics Internship")
