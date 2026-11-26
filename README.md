@@ -167,7 +167,6 @@ and are not necessarily actual payments.
        python -m streamlit run dashboard/app.py
 
 
-## Dashboard Screenshots
 
 ## Dashboard Screenshots
 
