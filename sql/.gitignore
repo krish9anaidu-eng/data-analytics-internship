@@ -1,0 +1,15 @@
+
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Sensitive configuration
+.env
+.streamlit/secrets.toml
+
+# Dataset files
+data/raw/
+data/cleaned/
