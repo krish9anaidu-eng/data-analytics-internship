@@ -1,4 +1,4 @@
-
+﻿
 import pandas as pd
 from pathlib import Path
 
@@ -169,6 +169,8 @@ and are not necessarily actual payments.
 
 ## Dashboard Screenshots
 
+## Dashboard Screenshots
+
 ### Dashboard Overview
 
 ![Dashboard Overview](reports/dashboard_overview.png)
@@ -184,6 +186,7 @@ and are not necessarily actual payments.
 ### Filtered Dashboard
 
 ![Filtered Dashboard](reports/filtered_dashboard.png)
+
 
 ## Key Findings
 
@@ -212,3 +215,4 @@ counts, transaction counts, and spending trends.
 Nandi Geetha Krishnama Naidu
 
 Data Analytics Internship - Project 1
+
