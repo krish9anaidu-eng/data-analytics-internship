@@ -183,3 +183,6 @@ Data Analytics Internship
 
 Implementation prepared. Final acceptance depends on
 the generated validation results.
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
