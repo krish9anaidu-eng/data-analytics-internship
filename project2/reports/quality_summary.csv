@@ -1,0 +1,7 @@
+file,total_rows,total_errors,affected_rows,clean_rows,quality_score,status
+clean_purchases.csv,1000,0,0,1000,100.0,Excellent
+test_01_missing.csv,1000,10,10,990,99.0,Good
+test_02_prices.csv,1000,10,10,990,99.0,Good
+test_03_totals.csv,1000,10,10,990,99.0,Good
+test_04_duplicates.csv,1010,10,10,1000,99.01,Good
+test_05_mixed.csv,1000,20,20,980,98.0,Good

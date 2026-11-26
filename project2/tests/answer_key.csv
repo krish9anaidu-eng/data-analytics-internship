@@ -1,0 +1,61 @@
+file,row_number,column,error_type
+test_01_missing.csv,2,supplier,Missing value
+test_01_missing.csv,3,supplier,Missing value
+test_01_missing.csv,4,supplier,Missing value
+test_01_missing.csv,5,supplier,Missing value
+test_01_missing.csv,6,supplier,Missing value
+test_01_missing.csv,7,supplier,Missing value
+test_01_missing.csv,8,supplier,Missing value
+test_01_missing.csv,9,supplier,Missing value
+test_01_missing.csv,10,supplier,Missing value
+test_01_missing.csv,11,supplier,Missing value
+test_02_prices.csv,12,unit_price,Negative price
+test_02_prices.csv,13,unit_price,Negative price
+test_02_prices.csv,14,unit_price,Negative price
+test_02_prices.csv,15,unit_price,Negative price
+test_02_prices.csv,16,unit_price,Negative price
+test_02_prices.csv,17,unit_price,Zero price
+test_02_prices.csv,18,unit_price,Zero price
+test_02_prices.csv,19,unit_price,Zero price
+test_02_prices.csv,20,unit_price,Zero price
+test_02_prices.csv,21,unit_price,Zero price
+test_03_totals.csv,22,total,Incorrect total
+test_03_totals.csv,23,total,Incorrect total
+test_03_totals.csv,24,total,Incorrect total
+test_03_totals.csv,25,total,Incorrect total
+test_03_totals.csv,26,total,Incorrect total
+test_03_totals.csv,27,total,Incorrect total
+test_03_totals.csv,28,total,Incorrect total
+test_03_totals.csv,29,total,Incorrect total
+test_03_totals.csv,30,total,Incorrect total
+test_03_totals.csv,31,total,Incorrect total
+test_04_duplicates.csv,1002,All columns,Duplicate row
+test_04_duplicates.csv,1003,All columns,Duplicate row
+test_04_duplicates.csv,1004,All columns,Duplicate row
+test_04_duplicates.csv,1005,All columns,Duplicate row
+test_04_duplicates.csv,1006,All columns,Duplicate row
+test_04_duplicates.csv,1007,All columns,Duplicate row
+test_04_duplicates.csv,1008,All columns,Duplicate row
+test_04_duplicates.csv,1009,All columns,Duplicate row
+test_04_duplicates.csv,1010,All columns,Duplicate row
+test_04_duplicates.csv,1011,All columns,Duplicate row
+test_05_mixed.csv,42,date,Invalid date
+test_05_mixed.csv,43,date,Invalid date
+test_05_mixed.csv,44,date,Invalid date
+test_05_mixed.csv,45,date,Invalid date
+test_05_mixed.csv,46,date,Invalid date
+test_05_mixed.csv,47,date,Future date
+test_05_mixed.csv,48,date,Future date
+test_05_mixed.csv,49,date,Future date
+test_05_mixed.csv,50,date,Future date
+test_05_mixed.csv,51,date,Future date
+test_05_mixed.csv,52,quantity,Invalid number
+test_05_mixed.csv,53,quantity,Invalid number
+test_05_mixed.csv,54,quantity,Invalid number
+test_05_mixed.csv,55,quantity,Invalid number
+test_05_mixed.csv,56,quantity,Invalid number
+test_05_mixed.csv,57,unit_price,Invalid number
+test_05_mixed.csv,58,unit_price,Invalid number
+test_05_mixed.csv,59,unit_price,Invalid number
+test_05_mixed.csv,60,unit_price,Invalid number
+test_05_mixed.csv,61,unit_price,Invalid number

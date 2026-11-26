@@ -1,0 +1,11 @@
+Metric,Value
+Expected Errors,60
+Detected Errors,60
+True Positives,60
+False Positives,0
+False Negatives,0
+Precision (%),100.0
+Recall (%),100.0
+F1 Score (%),100.0
+Clean Dataset Errors,0
+Final Test Result,PASS
