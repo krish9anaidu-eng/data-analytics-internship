@@ -1,0 +1,101 @@
+QUANTITY (EA),PO Date,Rate,Mfr Name,Line Total,Product Details,Product Code,Vendor Company
+10,2026-10-04,271.13,Hawkins PLC,2711.3,Electrical Cable,PART-8851-AW,Davis-Rodgers
+34,2025-03-25,70.57,Schmitt PLC,2399.38,Steel Pipes,PART-4519-GN,"Pugh, Henderson and Moon"
+9,2026-01-31,440.24,"Richardson, Farmer and Andrews",3962.16,Steel Pipes,PART-6899-RP,"Olson, Boone and Bell"
+37,2026-02-07,83.08,"Adams, White and Park",3073.96,Electrical Cable,PART-4550-LJ,Lynch Ltd
+91,2025-09-08,154.75,Davis PLC,14082.25,Electrical Cable,PART-3667-VK,"Morales, Thomas and Schultz"
+2,2025-10-20,335.59,"Carlson, Ware and Moore",671.18,Electrical Cable,PART-9014-CQ,Griffith-Frank
+39,2026-02-28,466.22,Fischer Inc,18182.58,Industrial Screws,PART-5614-RR,Lawson-Perry
+18,2025-03-11,135.91,Foster PLC,2446.38,Industrial Screws,PART-0034-NX,Rose-Parker
+96,2026-08-13,278.85,Burgess-Thompson,26769.6,Cleaning Supplies,PART-6838-JQ,Roberts-Wilson
+37,2026-05-30,304.39,Graham Group,11262.43,Steel Pipes,PART-1596-KZ,Jones-Hensley
+27,2025-10-29,345.31,Jackson-Meza,9323.37,Cleaning Supplies,PART-7516-GP,"Butler, Wilson and Smith"
+65,2025-08-23,246.82,"Morgan, Cook and Jackson",16043.3,Safety Gloves,PART-8188-MX,"Morales, Miller and Harrell"
+12,2026-07-07,318.97,Young and Sons,3827.64,Cleaning Supplies,PART-4329-JW,Luna-Fuentes
+6,2025-03-22,6.76,Webster-Wolf,40.56,Laptop,PART-7995-OU,"Jones, Bean and Burton"
+82,2024-12-24,490.0,Hogan-Vargas,40180.0,Laptop,PART-5814-DC,Jones-Ramos
+95,2026-01-29,223.71,Newman Inc,21252.45,Safety Helmet,PART-9986-DL,Wood LLC
+72,2025-12-21,9.79,"Lopez, Jacobs and Mason",704.88,Industrial Screws,PART-0715-TF,"Huang, Cole and Pacheco"
+89,2025-08-14,452.44,Warren-Bishop,40267.16,Electrical Cable,PART-5546-AX,"Thompson, Wright and Kim"
+5,2025-01-27,418.12,Rivera PLC,2090.6,Power Drill,PART-6449-JV,"Harper, Mccormick and Holland"
+71,2025-08-07,78.31,"Hale, Myers and Larson",5560.01,Laptop,PART-1486-PY,"Alvarado, Rangel and Collins"
+6,2025-05-10,157.59,"Gaines, Davis and Santiago",945.54,Safety Gloves,PART-8505-TL,Santiago Ltd
+46,2026-09-04,108.99,Cooke and Sons,5013.54,Office Chair,PART-1418-XI,Meza-Tucker
+86,2026-05-04,55.88,"Anderson, Bennett and Martin",4805.68,Electrical Cable,PART-9270-AX,"Stephenson, Johnson and Rogers"
+53,2026-07-15,487.05,"Bowers, Young and Allen",25813.65,Laptop,PART-7359-CD,"Young, Wallace and Mitchell"
+31,2026-10-04,432.98,Burch-Montoya,13422.38,Laptop,PART-9240-PE,Strickland-Shaw
+53,2026-11-02,17.27,"Rosales, Mitchell and Hines",915.31,Steel Pipes,PART-4782-BF,Spencer-Garcia
+53,2025-05-18,402.11,Perry Group,21311.83,Office Chair,PART-8536-FX,Velasquez LLC
+35,2024-11-29,83.8,"Santos, Moody and Taylor",2933.0,Industrial Screws,PART-4727-CN,Flores Inc
+49,2025-05-28,436.72,Dunn Ltd,21399.28,Printer Paper,PART-9861-XS,Smith and Sons
+29,2026-02-14,103.79,"Bauer, Bryant and Rodriguez",3009.91,Printer Paper,PART-7980-OG,Martinez-Allen
+45,2025-01-16,156.07,Smith-Gomez,7023.15,Office Chair,PART-9621-HX,Higgins LLC
+29,2025-08-29,16.71,Myers Group,484.59,Office Chair,PART-0654-VB,"Stephens, Hartman and Romero"
+52,2026-08-18,167.49,"Fuller, Ingram and Moss",8709.48,Industrial Screws,PART-5205-IV,Cooper Ltd
+99,2025-04-28,143.17,"Mendoza, White and Taylor",14173.83,Electrical Cable,PART-7043-CY,"Thompson, Maxwell and Marshall"
+52,2026-09-28,341.36,"Sanders, Ochoa and Kennedy",17750.72,Electrical Cable,PART-0345-XD,Stewart LLC
+43,2025-09-06,469.92,Paul-Kline,20206.56,Industrial Screws,PART-6527-SF,"Rivera, Martinez and Richardson"
+34,2026-04-22,93.39,Morrison-Short,3175.26,Cleaning Supplies,PART-8451-FU,"Adams, Miller and Coleman"
+5,2026-04-05,58.66,Jackson-Wallace,293.3,Safety Helmet,PART-7059-BR,Parker-Morrison
+45,2025-10-31,365.63,Cox-Owen,16453.35,Steel Pipes,PART-2029-RY,Jones Ltd
+56,2026-07-10,305.07,"Diaz, Reyes and Bradley",17083.92,Electrical Cable,PART-9275-XC,Martinez and Sons
+15,2025-09-21,195.67,Sanders-Banks,2935.05,Power Drill,PART-3102-FH,Berry PLC
+25,2025-04-08,131.09,Davies LLC,3277.25,Safety Helmet,PART-7312-EC,"Wilson, Hampton and Padilla"
+1,2026-05-30,262.36,Contreras-Mckinney,262.36,Electrical Cable,PART-8844-KT,"Wallace, Miller and Fleming"
+88,2025-09-07,361.12,Galloway and Sons,31778.56,Office Chair,PART-3705-JK,"Little, Leon and Hicks"
+47,2025-03-02,218.49,"Henson, Jones and Sanders",10269.03,Steel Pipes,PART-7866-KE,Lara-Arnold
+80,2026-11-02,160.39,"Holmes, Anderson and Calderon",12831.2,Industrial Screws,PART-8922-BG,Day-Cole
+93,2025-06-07,450.52,Torres and Sons,41898.36,Electrical Cable,PART-5358-SF,Guerra PLC
+40,2025-03-24,335.11,Martinez-Turner,13404.4,Steel Pipes,PART-8182-LL,Reid PLC
+52,2025-05-07,350.12,"Morgan, Bradshaw and Williams",18206.24,Electrical Cable,PART-0109-QP,Hopkins Ltd
+17,2025-01-10,99.96,"Gardner, May and Turner",1699.32,Safety Helmet,PART-3647-ES,"Butler, Fowler and Jimenez"
+87,2025-09-08,375.33,Harris-Lawson,32653.71,Laptop,PART-5556-IW,Gonzales Group
+79,2026-09-28,286.71,Cole-Thomas,22650.09,Safety Helmet,PART-0469-AP,"Hoffman, Flores and Owens"
+71,2025-02-02,417.69,"Edwards, Hines and Jimenez",29655.99,Cleaning Supplies,PART-8774-FB,Li PLC
+37,2025-11-25,109.04,Aguilar Inc,4034.48,Power Drill,PART-0479-PR,Wagner-Levy
+78,2026-02-10,329.08,Anderson-Baker,25668.24,Printer Paper,PART-5650-ZD,Herrera-Boone
+57,2025-09-10,223.87,"Cole, Pierce and Bryan",12760.59,Office Chair,PART-9912-GZ,"Lee, Tran and Jones"
+66,2026-06-02,239.23,Gonzalez PLC,15789.18,Laptop,PART-6800-CI,Grant-Diaz
+85,2026-03-18,46.97,Obrien PLC,3992.45,Electrical Cable,PART-2595-KZ,Brock-Stone
+85,2025-07-21,318.31,"Patel, Erickson and Evans",27056.35,Steel Pipes,PART-0551-AL,"Kirby, Wheeler and Romero"
+12,2025-04-06,410.12,Coffey-Patton,4921.44,Office Chair,PART-9930-LE,"Wiggins, Soto and Carlson"
+87,2025-07-26,158.66,Underwood and Sons,13803.42,Office Chair,PART-0913-BC,"Fuller, Harvey and Randall"
+19,2025-08-04,17.09,Shaw-Carr,324.71,Office Chair,PART-7028-NJ,Hernandez-Vaughn
+61,2025-06-29,307.58,Barr-Peterson,18762.38,Industrial Screws,PART-5497-MP,"Mendoza, Bennett and Frye"
+59,2026-06-08,210.15,Bush-Vaughn,12398.85,Power Drill,PART-7575-JY,"Evans, David and Hendrix"
+25,2025-08-21,360.58,"James, Baird and Cardenas",9014.5,Safety Helmet,PART-2404-TF,Roberts-Berry
+64,2026-06-23,202.83,Harris PLC,12981.12,Laptop,PART-4842-GN,Douglas-Burgess
+84,2026-07-16,345.37,Little Inc,29011.08,Industrial Screws,PART-1657-GR,"Allen, Williams and Stein"
+100,2025-01-09,215.45,Russell Group,21545.0,Laptop,PART-7345-SP,Smith PLC
+90,2025-12-14,261.39,"Rodgers, Jefferson and Johnson",23525.1,Safety Gloves,PART-2620-ZY,Pearson and Sons
+72,2026-01-20,128.35,Smith PLC,9241.2,Industrial Screws,PART-9154-DP,Zuniga LLC
+59,2024-12-05,71.0,Nelson-Lamb,4189.0,Printer Paper,PART-5274-TL,"Snyder, Mays and Rosales"
+86,2026-04-28,267.91,Thompson Ltd,23040.26,Electrical Cable,PART-6685-FZ,"Rogers, Phillips and Craig"
+77,2025-08-08,162.06,Morris-Wright,12478.62,Printer Paper,PART-4637-WR,Lopez and Sons
+79,2026-05-11,408.43,Valdez-Schwartz,32265.97,Electrical Cable,PART-0174-KZ,Aguilar-Berry
+55,2025-11-13,416.13,"Wilson, Hendricks and Phillips",22887.15,Electrical Cable,PART-9332-EJ,"Leblanc, Barron and Carrillo"
+58,2026-01-09,449.12,Todd-Pham,26048.96,Printer Paper,PART-3391-HC,"Zhang, Brooks and Miles"
+58,2025-05-03,133.3,"Leach, Harris and Herrera",7731.4,Office Chair,PART-2587-HR,"Cox, Stark and Rodriguez"
+82,2026-05-01,142.27,Chavez PLC,11666.14,Electrical Cable,PART-6790-JD,"Aguilar, Davis and Dixon"
+63,2026-01-19,315.24,Reese PLC,19860.12,Cleaning Supplies,PART-1065-SE,Cummings-Foster
+57,2025-09-12,43.35,Johnson-Ortiz,2470.95,Cleaning Supplies,PART-2656-CY,Michael Inc
+31,2026-09-04,139.5,"Anderson, Dalton and Wilson",4324.5,Steel Pipes,PART-8682-UO,Vega Ltd
+70,2025-03-25,44.89,Nunez-Stephens,3142.3,Laptop,PART-8633-DW,Avila LLC
+30,2025-02-11,194.6,Johnson Ltd,5838.0,Laptop,PART-6903-NE,Lopez-Golden
+91,2026-09-26,110.91,Sanchez Inc,10092.81,Safety Helmet,PART-6738-NW,"Johnson, Harper and Warner"
+53,2026-08-22,168.79,Cabrera Ltd,8945.87,Printer Paper,PART-9599-XR,Taylor LLC
+54,2024-12-31,35.82,"Boyd, Gutierrez and Hill",1934.28,Safety Helmet,PART-8926-JF,Young-Walter
+50,2025-07-16,452.9,"Flores, Butler and Hernandez",22645.0,Power Drill,PART-6287-PO,David-Powers
+90,2026-04-11,14.67,Faulkner-Grant,1320.3,Power Drill,PART-2634-NV,"Thomas, Ford and Brown"
+49,2026-10-04,241.1,Nichols and Sons,11813.9,Steel Pipes,PART-0469-MC,Nielsen LLC
+39,2025-02-24,377.97,"Powers, Robinson and Clark",14740.83,Safety Helmet,PART-5403-MV,Lopez PLC
+69,2025-08-31,375.02,"Padilla, Sanders and Allen",25876.38,Electrical Cable,PART-5467-IP,"Key, Mendoza and Sanchez"
+78,2024-12-30,449.42,Owens-Lang,35054.76,Printer Paper,PART-7535-UA,Green-Hunt
+29,2026-09-03,140.1,"Donovan, Riley and Butler",4062.9,Printer Paper,PART-2353-YK,"Shields, Figueroa and Smith"
+4,2026-06-07,197.48,"Morgan, Hines and Burns",789.92,Safety Helmet,PART-7725-KI,Porter Ltd
+93,2025-05-23,86.7,"Bernard, Warren and Combs",8063.1,Printer Paper,PART-1006-IO,"Freeman, Stark and Weaver"
+17,2024-12-07,490.46,Wagner LLC,8337.82,Electrical Cable,PART-0997-QF,Mann Inc
+4,2026-05-02,453.93,Smith Ltd,1815.72,Power Drill,PART-4840-GS,Patel Group
+73,2026-08-20,333.18,Hull PLC,24322.14,Industrial Screws,PART-2339-HQ,Drake-Browning
+83,2026-07-07,217.16,Chung-Stevens,18024.28,Printer Paper,PART-3341-PP,Adams-Sanders
+24,2026-07-27,29.89,Tran-Brown,717.36,Safety Helmet,PART-0217-BP,Davis Group

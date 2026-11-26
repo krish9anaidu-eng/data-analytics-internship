@@ -1,0 +1,8 @@
+file_name,original_header,standard_field,cleaned_header,mapped_field,confidence,status,is_correct,is_unmapped,is_incorrect,method
+procurement_03.csv,Total Price,total_spend,total price,UNMAPPED,72.73,Needs Human Review,False,True,False,RapidFuzz
+procurement_08.csv,Material Number,part_number,material number,UNMAPPED,72.0,Needs Human Review,False,True,False,RapidFuzz
+procurement_08.csv,Total Price,total_spend,total price,UNMAPPED,72.73,Needs Human Review,False,True,False,RapidFuzz
+procurement_11.csv,Material Number,part_number,material number,UNMAPPED,72.0,Needs Human Review,False,True,False,RapidFuzz
+procurement_16.csv,Purchase Value,total_spend,purchase value,UNMAPPED,81.48,Needs Human Review,False,True,False,RapidFuzz
+procurement_17.csv,Total Price,total_spend,total price,UNMAPPED,72.73,Needs Human Review,False,True,False,RapidFuzz
+procurement_18.csv,Material Number,part_number,material number,UNMAPPED,72.0,Needs Human Review,False,True,False,RapidFuzz

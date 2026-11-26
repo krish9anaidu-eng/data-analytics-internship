@@ -1,0 +1,161 @@
+file_name,original_header,cleaned_header,mapped_field,confidence,status
+procurement_01.csv,UNIT_PRICE,unit price,unit_price,100,Auto Mapped
+procurement_01.csv,Manufacturer,manufacturer,manufacturer,100,Auto Mapped
+procurement_01.csv,QTY_ORDERED,qty ordered,quantity,95,Auto Mapped
+procurement_01.csv,Extended Price,extended price,total_spend,95,Auto Mapped
+procurement_01.csv,Item Description,item description,description,95,Auto Mapped
+procurement_01.csv,Product Code,product code,part_number,95,Auto Mapped
+procurement_01.csv,Supplier Details,supplier details,supplier,85,Auto Mapped
+procurement_01.csv,Order Dt,order dt,UNMAPPED,65,Needs Human Review
+procurement_02.csv,PO Date,po date,date,95,Auto Mapped
+procurement_02.csv,Rate,rate,unit_price,95,Auto Mapped
+procurement_02.csv,Line Total,line total,total_spend,95,Auto Mapped
+procurement_02.csv,Product Details,product details,description,95,Auto Mapped
+procurement_02.csv,Product Code,product code,part_number,95,Auto Mapped
+procurement_02.csv,QUANTITY (EA),quantity ea,quantity,85,Auto Mapped
+procurement_02.csv,Mfr Name,mfr name,manufacturer,85,Auto Mapped
+procurement_02.csv,Vendor Company,vendor company,supplier,85,Auto Mapped
+procurement_03.csv,Unit Cost,unit cost,unit_price,95,Auto Mapped
+procurement_03.csv,PART_NUM,part num,part_number,95,Auto Mapped
+procurement_03.csv,Unit Count,unit count,quantity,95,Auto Mapped
+procurement_03.csv,Product Name,product name,description,95,Auto Mapped
+procurement_03.csv,Mfr,mfr,manufacturer,95,Auto Mapped
+procurement_03.csv,Invoice Date,invoice date,date,95,Auto Mapped
+procurement_03.csv,Supplier Details,supplier details,supplier,85,Auto Mapped
+procurement_03.csv,Total Price,total price,UNMAPPED,65,Needs Human Review
+procurement_04.csv,UNIT_PRICE,unit price,unit_price,100,Auto Mapped
+procurement_04.csv,Qty Ordered,qty ordered,quantity,95,Auto Mapped
+procurement_04.csv,Total Amount,total amount,total_spend,95,Auto Mapped
+procurement_04.csv,Maker,maker,manufacturer,95,Auto Mapped
+procurement_04.csv,Invoice Date,invoice date,date,95,Auto Mapped
+procurement_04.csv,Item Description,item description,description,95,Auto Mapped
+procurement_04.csv,VENDOR_NAME,vendor name,supplier,95,Auto Mapped
+procurement_04.csv,PART_NUM,part num,part_number,95,Auto Mapped
+procurement_05.csv,Part Number,part number,part_number,100,Auto Mapped
+procurement_05.csv,Qty Ordered,qty ordered,quantity,95,Auto Mapped
+procurement_05.csv,Product Name,product name,description,95,Auto Mapped
+procurement_05.csv,Vendor Name,vendor name,supplier,95,Auto Mapped
+procurement_05.csv,Invoice Date,invoice date,date,95,Auto Mapped
+procurement_05.csv,TOTAL_COST,total cost,total_spend,95,Auto Mapped
+procurement_05.csv,Unit Cost,unit cost,unit_price,95,Auto Mapped
+procurement_05.csv,Producer,producer,manufacturer,95,Auto Mapped
+procurement_06.csv,Total Spend,total spend,total_spend,100,Auto Mapped
+procurement_06.csv,Part Number,part number,part_number,100,Auto Mapped
+procurement_06.csv,Supplier Name,supplier name,supplier,95,Auto Mapped
+procurement_06.csv,Price Each,price each,unit_price,95,Auto Mapped
+procurement_06.csv,Producer,producer,manufacturer,95,Auto Mapped
+procurement_06.csv,QUANTITY (EA),quantity ea,quantity,85,Auto Mapped
+procurement_06.csv,Order Dt,order dt,UNMAPPED,65,Needs Human Review
+procurement_06.csv,Item Name,item name,UNMAPPED,65,Needs Human Review
+procurement_07.csv,Unit Price,unit price,unit_price,100,Auto Mapped
+procurement_07.csv,Maker,maker,manufacturer,95,Auto Mapped
+procurement_07.csv,Order Quantity,order quantity,quantity,95,Auto Mapped
+procurement_07.csv,VENDOR_NAME,vendor name,supplier,95,Auto Mapped
+procurement_07.csv,PURCHASE_DATE,purchase date,date,95,Auto Mapped
+procurement_07.csv,Part No,part no,part_number,95,Auto Mapped
+procurement_07.csv,Total Amount,total amount,total_spend,95,Auto Mapped
+procurement_07.csv,Material Desc,material desc,UNMAPPED,65,Needs Human Review
+procurement_08.csv,Item Description,item description,description,95,Auto Mapped
+procurement_08.csv,PURCHASE_DATE,purchase date,date,95,Auto Mapped
+procurement_08.csv,VENDOR_NAME,vendor name,supplier,95,Auto Mapped
+procurement_08.csv,Price Each,price each,unit_price,95,Auto Mapped
+procurement_08.csv,Maker,maker,manufacturer,95,Auto Mapped
+procurement_08.csv,QUANTITY (EA),quantity ea,quantity,85,Auto Mapped
+procurement_08.csv,Total Price,total price,UNMAPPED,65,Needs Human Review
+procurement_08.csv,Material Number,material number,UNMAPPED,65,Needs Human Review
+procurement_09.csv,Ext Amt,ext amt,total_spend,95,Auto Mapped
+procurement_09.csv,SKU,sku,part_number,95,Auto Mapped
+procurement_09.csv,Price/Unit,price unit,unit_price,95,Auto Mapped
+procurement_09.csv,PURCHASE_DATE,purchase date,date,95,Auto Mapped
+procurement_09.csv,Unit Count,unit count,quantity,95,Auto Mapped
+procurement_09.csv,Manufacturer Name,manufacturer name,manufacturer,95,Auto Mapped
+procurement_09.csv,Vendor Company,vendor company,supplier,85,Auto Mapped
+procurement_09.csv,Item Name,item name,UNMAPPED,65,Needs Human Review
+procurement_10.csv,Part Number,part number,part_number,100,Auto Mapped
+procurement_10.csv,Unit Cost,unit cost,unit_price,95,Auto Mapped
+procurement_10.csv,Supplier Name,supplier name,supplier,95,Auto Mapped
+procurement_10.csv,Line Total,line total,total_spend,95,Auto Mapped
+procurement_10.csv,Qty,qty,quantity,95,Auto Mapped
+procurement_10.csv,Mfr Name,mfr name,manufacturer,85,Auto Mapped
+procurement_10.csv,Item Name,item name,UNMAPPED,65,Needs Human Review
+procurement_10.csv,Order Dt,order dt,UNMAPPED,65,Needs Human Review
+procurement_11.csv,Supplier,supplier,supplier,100,Auto Mapped
+procurement_11.csv,Invoice Date,invoice date,date,95,Auto Mapped
+procurement_11.csv,Maker,maker,manufacturer,95,Auto Mapped
+procurement_11.csv,TOTAL_COST,total cost,total_spend,95,Auto Mapped
+procurement_11.csv,Product Name,product name,description,95,Auto Mapped
+procurement_11.csv,Unit Cost,unit cost,unit_price,95,Auto Mapped
+procurement_11.csv,Qty,qty,quantity,95,Auto Mapped
+procurement_11.csv,Material Number,material number,UNMAPPED,65,Needs Human Review
+procurement_12.csv,Date,date,date,100,Auto Mapped
+procurement_12.csv,Supplier,supplier,supplier,100,Auto Mapped
+procurement_12.csv,Ext Amt,ext amt,total_spend,95,Auto Mapped
+procurement_12.csv,Manufacturer Name,manufacturer name,manufacturer,95,Auto Mapped
+procurement_12.csv,Units,units,quantity,95,Auto Mapped
+procurement_12.csv,Price/Unit,price unit,unit_price,95,Auto Mapped
+procurement_12.csv,Material Desc,material desc,UNMAPPED,65,Needs Human Review
+procurement_12.csv,Part #,part,UNMAPPED,65,Needs Human Review
+procurement_13.csv,Seller,seller,supplier,95,Auto Mapped
+procurement_13.csv,Invoice Date,invoice date,date,95,Auto Mapped
+procurement_13.csv,Ext Amt,ext amt,total_spend,95,Auto Mapped
+procurement_13.csv,Price Each,price each,unit_price,95,Auto Mapped
+procurement_13.csv,Qty Ordered,qty ordered,quantity,95,Auto Mapped
+procurement_13.csv,MFG_NAME,mfg name,manufacturer,95,Auto Mapped
+procurement_13.csv,Material Desc,material desc,UNMAPPED,65,Needs Human Review
+procurement_13.csv,Part #,part,UNMAPPED,65,Needs Human Review
+procurement_14.csv,Part Number,part number,part_number,100,Auto Mapped
+procurement_14.csv,UNIT_PRICE,unit price,unit_price,100,Auto Mapped
+procurement_14.csv,Date,date,date,100,Auto Mapped
+procurement_14.csv,Seller,seller,supplier,95,Auto Mapped
+procurement_14.csv,TOTAL_COST,total cost,total_spend,95,Auto Mapped
+procurement_14.csv,Product Details,product details,description,95,Auto Mapped
+procurement_14.csv,QUANTITY (EA),quantity ea,quantity,85,Auto Mapped
+procurement_14.csv,Manufacturing Company,manufacturing company,UNMAPPED,0,Needs Human Review
+procurement_15.csv,UNIT_PRICE,unit price,unit_price,100,Auto Mapped
+procurement_15.csv,Part Number,part number,part_number,100,Auto Mapped
+procurement_15.csv,Producer,producer,manufacturer,95,Auto Mapped
+procurement_15.csv,Item Desc.,item desc,description,95,Auto Mapped
+procurement_15.csv,Ext Amt,ext amt,total_spend,95,Auto Mapped
+procurement_15.csv,Invoice Date,invoice date,date,95,Auto Mapped
+procurement_15.csv,Seller,seller,supplier,95,Auto Mapped
+procurement_15.csv,Unit Count,unit count,quantity,95,Auto Mapped
+procurement_16.csv,Rate,rate,unit_price,95,Auto Mapped
+procurement_16.csv,Item Code,item code,part_number,95,Auto Mapped
+procurement_16.csv,Order Quantity,order quantity,quantity,95,Auto Mapped
+procurement_16.csv,Maker,maker,manufacturer,95,Auto Mapped
+procurement_16.csv,Vendor Name,vendor name,supplier,95,Auto Mapped
+procurement_16.csv,Purchase Value,purchase value,UNMAPPED,65,Needs Human Review
+procurement_16.csv,Material Desc,material desc,UNMAPPED,65,Needs Human Review
+procurement_16.csv,Order Dt,order dt,UNMAPPED,65,Needs Human Review
+procurement_17.csv,Quantity,quantity,quantity,100,Auto Mapped
+procurement_17.csv,Date,date,date,100,Auto Mapped
+procurement_17.csv,Cost Per Unit,cost per unit,unit_price,95,Auto Mapped
+procurement_17.csv,Part No,part no,part_number,95,Auto Mapped
+procurement_17.csv,VENDOR_NAME,vendor name,supplier,95,Auto Mapped
+procurement_17.csv,Total Price,total price,UNMAPPED,65,Needs Human Review
+procurement_17.csv,Manufacturing Company,manufacturing company,UNMAPPED,0,Needs Human Review
+procurement_17.csv,Item Name,item name,UNMAPPED,65,Needs Human Review
+procurement_18.csv,Ext Amt,ext amt,total_spend,95,Auto Mapped
+procurement_18.csv,Price Each,price each,unit_price,95,Auto Mapped
+procurement_18.csv,Item Desc.,item desc,description,95,Auto Mapped
+procurement_18.csv,PO Date,po date,date,95,Auto Mapped
+procurement_18.csv,Unit Count,unit count,quantity,95,Auto Mapped
+procurement_18.csv,Vendor Company,vendor company,supplier,85,Auto Mapped
+procurement_18.csv,Manufacturing Company,manufacturing company,UNMAPPED,0,Needs Human Review
+procurement_18.csv,Material Number,material number,UNMAPPED,65,Needs Human Review
+procurement_19.csv,Unit Price,unit price,unit_price,100,Auto Mapped
+procurement_19.csv,Total Spend,total spend,total_spend,100,Auto Mapped
+procurement_19.csv,Item Code,item code,part_number,95,Auto Mapped
+procurement_19.csv,Units,units,quantity,95,Auto Mapped
+procurement_19.csv,Product Name,product name,description,95,Auto Mapped
+procurement_19.csv,Mfr Name,mfr name,manufacturer,85,Auto Mapped
+procurement_19.csv,Supplier Details,supplier details,supplier,85,Auto Mapped
+procurement_19.csv,Order Dt,order dt,UNMAPPED,65,Needs Human Review
+procurement_20.csv,Quantity,quantity,quantity,100,Auto Mapped
+procurement_20.csv,Item Desc.,item desc,description,95,Auto Mapped
+procurement_20.csv,PO Date,po date,date,95,Auto Mapped
+procurement_20.csv,Unit Cost,unit cost,unit_price,95,Auto Mapped
+procurement_20.csv,Total Amount,total amount,total_spend,95,Auto Mapped
+procurement_20.csv,Mfr,mfr,manufacturer,95,Auto Mapped
+procurement_20.csv,SKU,sku,part_number,95,Auto Mapped
+procurement_20.csv,Supplier Details,supplier details,supplier,85,Auto Mapped

@@ -1,0 +1,161 @@
+file_name,original_header,standard_field
+procurement_01.csv,Item Description,description
+procurement_01.csv,QTY_ORDERED,quantity
+procurement_01.csv,UNIT_PRICE,unit_price
+procurement_01.csv,Extended Price,total_spend
+procurement_01.csv,Supplier Details,supplier
+procurement_01.csv,Manufacturer,manufacturer
+procurement_01.csv,Product Code,part_number
+procurement_01.csv,Order Dt,date
+procurement_02.csv,Product Details,description
+procurement_02.csv,QUANTITY (EA),quantity
+procurement_02.csv,Rate,unit_price
+procurement_02.csv,Line Total,total_spend
+procurement_02.csv,Vendor Company,supplier
+procurement_02.csv,Mfr Name,manufacturer
+procurement_02.csv,Product Code,part_number
+procurement_02.csv,PO Date,date
+procurement_03.csv,Product Name,description
+procurement_03.csv,Unit Count,quantity
+procurement_03.csv,Unit Cost,unit_price
+procurement_03.csv,Total Price,total_spend
+procurement_03.csv,Supplier Details,supplier
+procurement_03.csv,Mfr,manufacturer
+procurement_03.csv,PART_NUM,part_number
+procurement_03.csv,Invoice Date,date
+procurement_04.csv,Item Description,description
+procurement_04.csv,Qty Ordered,quantity
+procurement_04.csv,UNIT_PRICE,unit_price
+procurement_04.csv,Total Amount,total_spend
+procurement_04.csv,VENDOR_NAME,supplier
+procurement_04.csv,Maker,manufacturer
+procurement_04.csv,PART_NUM,part_number
+procurement_04.csv,Invoice Date,date
+procurement_05.csv,Product Name,description
+procurement_05.csv,Qty Ordered,quantity
+procurement_05.csv,Unit Cost,unit_price
+procurement_05.csv,TOTAL_COST,total_spend
+procurement_05.csv,Vendor Name,supplier
+procurement_05.csv,Producer,manufacturer
+procurement_05.csv,Part Number,part_number
+procurement_05.csv,Invoice Date,date
+procurement_06.csv,Item Name,description
+procurement_06.csv,QUANTITY (EA),quantity
+procurement_06.csv,Price Each,unit_price
+procurement_06.csv,Total Spend,total_spend
+procurement_06.csv,Supplier Name,supplier
+procurement_06.csv,Producer,manufacturer
+procurement_06.csv,Part Number,part_number
+procurement_06.csv,Order Dt,date
+procurement_07.csv,Material Desc,description
+procurement_07.csv,Order Quantity,quantity
+procurement_07.csv,Unit Price,unit_price
+procurement_07.csv,Total Amount,total_spend
+procurement_07.csv,VENDOR_NAME,supplier
+procurement_07.csv,Maker,manufacturer
+procurement_07.csv,Part No,part_number
+procurement_07.csv,PURCHASE_DATE,date
+procurement_08.csv,Item Description,description
+procurement_08.csv,QUANTITY (EA),quantity
+procurement_08.csv,Price Each,unit_price
+procurement_08.csv,Total Price,total_spend
+procurement_08.csv,VENDOR_NAME,supplier
+procurement_08.csv,Maker,manufacturer
+procurement_08.csv,Material Number,part_number
+procurement_08.csv,PURCHASE_DATE,date
+procurement_09.csv,Item Name,description
+procurement_09.csv,Unit Count,quantity
+procurement_09.csv,Price/Unit,unit_price
+procurement_09.csv,Ext Amt,total_spend
+procurement_09.csv,Vendor Company,supplier
+procurement_09.csv,Manufacturer Name,manufacturer
+procurement_09.csv,SKU,part_number
+procurement_09.csv,PURCHASE_DATE,date
+procurement_10.csv,Item Name,description
+procurement_10.csv,Qty,quantity
+procurement_10.csv,Unit Cost,unit_price
+procurement_10.csv,Line Total,total_spend
+procurement_10.csv,Supplier Name,supplier
+procurement_10.csv,Mfr Name,manufacturer
+procurement_10.csv,Part Number,part_number
+procurement_10.csv,Order Dt,date
+procurement_11.csv,Product Name,description
+procurement_11.csv,Qty,quantity
+procurement_11.csv,Unit Cost,unit_price
+procurement_11.csv,TOTAL_COST,total_spend
+procurement_11.csv,Supplier,supplier
+procurement_11.csv,Maker,manufacturer
+procurement_11.csv,Material Number,part_number
+procurement_11.csv,Invoice Date,date
+procurement_12.csv,Material Desc,description
+procurement_12.csv,Units,quantity
+procurement_12.csv,Price/Unit,unit_price
+procurement_12.csv,Ext Amt,total_spend
+procurement_12.csv,Supplier,supplier
+procurement_12.csv,Manufacturer Name,manufacturer
+procurement_12.csv,Part #,part_number
+procurement_12.csv,Date,date
+procurement_13.csv,Material Desc,description
+procurement_13.csv,Qty Ordered,quantity
+procurement_13.csv,Price Each,unit_price
+procurement_13.csv,Ext Amt,total_spend
+procurement_13.csv,Seller,supplier
+procurement_13.csv,MFG_NAME,manufacturer
+procurement_13.csv,Part #,part_number
+procurement_13.csv,Invoice Date,date
+procurement_14.csv,Product Details,description
+procurement_14.csv,QUANTITY (EA),quantity
+procurement_14.csv,UNIT_PRICE,unit_price
+procurement_14.csv,TOTAL_COST,total_spend
+procurement_14.csv,Seller,supplier
+procurement_14.csv,Manufacturing Company,manufacturer
+procurement_14.csv,Part Number,part_number
+procurement_14.csv,Date,date
+procurement_15.csv,Item Desc.,description
+procurement_15.csv,Unit Count,quantity
+procurement_15.csv,UNIT_PRICE,unit_price
+procurement_15.csv,Ext Amt,total_spend
+procurement_15.csv,Seller,supplier
+procurement_15.csv,Producer,manufacturer
+procurement_15.csv,Part Number,part_number
+procurement_15.csv,Invoice Date,date
+procurement_16.csv,Material Desc,description
+procurement_16.csv,Order Quantity,quantity
+procurement_16.csv,Rate,unit_price
+procurement_16.csv,Purchase Value,total_spend
+procurement_16.csv,Vendor Name,supplier
+procurement_16.csv,Maker,manufacturer
+procurement_16.csv,Item Code,part_number
+procurement_16.csv,Order Dt,date
+procurement_17.csv,Item Name,description
+procurement_17.csv,Quantity,quantity
+procurement_17.csv,Cost Per Unit,unit_price
+procurement_17.csv,Total Price,total_spend
+procurement_17.csv,VENDOR_NAME,supplier
+procurement_17.csv,Manufacturing Company,manufacturer
+procurement_17.csv,Part No,part_number
+procurement_17.csv,Date,date
+procurement_18.csv,Item Desc.,description
+procurement_18.csv,Unit Count,quantity
+procurement_18.csv,Price Each,unit_price
+procurement_18.csv,Ext Amt,total_spend
+procurement_18.csv,Vendor Company,supplier
+procurement_18.csv,Manufacturing Company,manufacturer
+procurement_18.csv,Material Number,part_number
+procurement_18.csv,PO Date,date
+procurement_19.csv,Product Name,description
+procurement_19.csv,Units,quantity
+procurement_19.csv,Unit Price,unit_price
+procurement_19.csv,Total Spend,total_spend
+procurement_19.csv,Supplier Details,supplier
+procurement_19.csv,Mfr Name,manufacturer
+procurement_19.csv,Item Code,part_number
+procurement_19.csv,Order Dt,date
+procurement_20.csv,Item Desc.,description
+procurement_20.csv,Quantity,quantity
+procurement_20.csv,Unit Cost,unit_price
+procurement_20.csv,Total Amount,total_spend
+procurement_20.csv,Supplier Details,supplier
+procurement_20.csv,Mfr,manufacturer
+procurement_20.csv,SKU,part_number
+procurement_20.csv,PO Date,date

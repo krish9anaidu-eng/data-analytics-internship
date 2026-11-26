@@ -1,0 +1,26 @@
+file_name,original_header,standard_field,cleaned_header,mapped_field,confidence,status,is_correct,is_unmapped,is_incorrect,method
+procurement_01.csv,Order Dt,date,order dt,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_03.csv,Total Price,total_spend,total price,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_06.csv,Item Name,description,item name,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_06.csv,Order Dt,date,order dt,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_07.csv,Material Desc,description,material desc,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_08.csv,Material Number,part_number,material number,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_08.csv,Total Price,total_spend,total price,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_09.csv,Item Name,description,item name,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_10.csv,Item Name,description,item name,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_10.csv,Order Dt,date,order dt,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_11.csv,Material Number,part_number,material number,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_12.csv,Material Desc,description,material desc,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_12.csv,Part #,part_number,part,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_13.csv,Material Desc,description,material desc,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_13.csv,Part #,part_number,part,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_14.csv,Manufacturing Company,manufacturer,manufacturing company,UNMAPPED,0,Needs Human Review,False,True,False,Rule Based
+procurement_16.csv,Material Desc,description,material desc,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_16.csv,Order Dt,date,order dt,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_16.csv,Purchase Value,total_spend,purchase value,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_17.csv,Item Name,description,item name,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_17.csv,Manufacturing Company,manufacturer,manufacturing company,UNMAPPED,0,Needs Human Review,False,True,False,Rule Based
+procurement_17.csv,Total Price,total_spend,total price,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_18.csv,Manufacturing Company,manufacturer,manufacturing company,UNMAPPED,0,Needs Human Review,False,True,False,Rule Based
+procurement_18.csv,Material Number,part_number,material number,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
+procurement_19.csv,Order Dt,date,order dt,UNMAPPED,65,Needs Human Review,False,True,False,Rule Based
