@@ -166,6 +166,7 @@ and are not necessarily actual payments.
 
        python -m streamlit run dashboard/app.py
 
+
 ## Dashboard Screenshots
 
 ### Dashboard Overview
@@ -211,21 +212,3 @@ counts, transaction counts, and spending trends.
 Nandi Geetha Krishnama Naidu
 
 Data Analytics Internship - Project 1
-
-## Dashboard Screenshots
-
-### Dashboard Overview
-
-![Dashboard Overview](reports/dashboard_overview.png)
-
-### Monthly Spending
-
-![Monthly Spending](reports/monthly_spending.png)
-
-### Supplier and Category Analysis
-
-![Supplier Analysis](reports/supplier_category_analysis.png)
-
-### Filtered Dashboard
-
-![Filtered Dashboard](reports/filtered_dashboard.png)
