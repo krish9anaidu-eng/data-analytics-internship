@@ -55,19 +55,27 @@ product or service category trends.
 
 ## Data Source
 
-Source: USAspending.gov
+The Procurement Spend Analytics Dashboard uses publicly available US government procurement data.
 
-Website: https://www.usaspending.gov/
+- **Source:** USAspending.gov
+- **Data provider:** U.S. Department of the Treasury
+- **Download portal:** https://www.usaspending.gov/download_center/custom_award_data
+- **Category reference:** https://www.acquisition.gov/psc-manual
 
-Agency: [Enter selected agency]
-Reporting period: [Enter selected year]
-Download date: [Enter download date]
+### Data Dictionary
 
-The project uses publicly available contract
-transaction data.
+| Column | Description |
+|---|---|
+| action_date | Date of the procurement transaction |
+| recipient_name | Supplier or vendor name |
+| product_or_service_code | Government product or service classification code |
+| federal_action_obligation | Amount obligated for the transaction |
 
-Raw and cleaned datasets are excluded from GitHub
-to reduce repository size.
+### Category and Subcategory Classification
+
+Product and Service Codes (PSC) are used to classify government procurement transactions. These codes identify types of products and services rather than quantities or monetary values.
+
+The dashboard groups procurement transactions by classification codes to support category-level spending analysis, supplier analysis and procurement decision-making.
 
 ## Data Cleaning
 
